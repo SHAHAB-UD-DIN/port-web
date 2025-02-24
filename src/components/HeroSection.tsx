@@ -11,12 +11,12 @@ export default function HeroSection() {
   
         <div className="justify-items-center">
           <Image src="/image.png" alt="Profile" width={110} height={110} className="" />
-          <h1 className="mt-3">Hi! I'm Shahab Ud Din 👋</h1>
+          <h1 className="mt-3">{"Hi! I'm Shahab Ud Din 👋"}</h1>
         </div>
   
         <div className="text-center">
           <h2 className="text-4xl font-semibold mt-3 ">frontend web developer</h2>
-          <h3 className="mt-3">I'm a web developer and starting over a tech journey with Capregsoft</h3>
+          <h3 className="mt-3">{"I'm a web developer and starting over a tech journey with Capregsoft"}</h3>
         </div>
   
         <div className="flex justify-center items-center gap-3 mt-4">
