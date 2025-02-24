@@ -1,9 +1,6 @@
 import Menu from "./Menu"
 import { ButtonDemo } from "./ButtonDemo"
-import  DarkMode  from "./DarkMode"
 import { OpenSheet } from "./OpenSheet"
-import { Bold } from "lucide-react"
-
 
 export default function Navbar() {
     return (
@@ -18,7 +15,6 @@ export default function Navbar() {
             </div>
             
             <div className="flex justify-self-start items-center gap-x-2">
-                {/* <DarkMode /> */}
                 <ButtonDemo />
             </div>
 
