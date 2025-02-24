@@ -7,12 +7,12 @@ import { cn } from "@/lib/utils"
 // import { Icons } from "@/components/icons"
 import {
   NavigationMenu,
-  NavigationMenuContent,
+  // NavigationMenuContent,
   NavigationMenuItem,
   NavigationMenuLink,
   NavigationMenuList,
-  NavigationMenuTrigger,
-  navigationMenuTriggerStyle,
+  // NavigationMenuTrigger,
+  // navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu"
 
 export default function Menu() {
