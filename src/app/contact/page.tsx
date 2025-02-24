@@ -7,7 +7,7 @@ export default function Contact(){
                 <h1 className="text-base">Connect with me</h1>
                 <h2 className="text-3xl font-semibold">Get in touch</h2>
                 <p>
-                    I'd love to hear from you! If you have any questions, comments or feedback.
+                    I had love to hear from you! If you have any questions, comments or feedback.
                     please use the form below.
                 </p>
         </div>
